@@ -1,0 +1,7 @@
+[
+  {
+  "country": "Brazil",
+  "flag": "https://example.com/flags/brazil.png",
+  "continent": "South America" // Optional, for extra features
+}
+]
